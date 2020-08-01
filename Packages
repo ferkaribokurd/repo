@@ -26,3 +26,16 @@ Name: Old Package
 Author: Reposi3 <reposithree@gmail.com>
 Depiction: https://ferkaribokurd.github.io/repo//depictions/?p=com.supermamon.oldpackage
 
+Package: com.r333d.cylinder
+Version: 1.1
+Section: Tweaks
+Maintainer: Reposi3 <reposithree@gmail.com>
+Depends: firmware (<7.0)
+Architecture: iphoneos-arm
+Filename: ./debs/com.r333d.cylinder_1.1_iphoneos-arm.deb
+Size: 860
+MD5sum: 4cef0931e6cf931d5988d5172615b581
+Description: Make your icons dance. Firmware should be lower than 7.0
+Name: Cylinder
+Author: Reposi3 <reposithree@gmail.com>
+Depiction: https://ferkaribokurd.github.io/repo//depictions/?p=com.supermamon.oldpackage
