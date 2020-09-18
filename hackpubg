@@ -11,10 +11,7 @@
 						                   <key>kind</key>
 						                   <string>display-image</string>
 						                   <key>needs-shine</key>
-						                   <true>
-						                   <key>url</key>
-						                   <string><a href="https://www.kurdstore.tk/assets/icon/icon.png" dir="ltr" x-apple-data-detectors="true" x-apple-data-detectors-type="link" x-apple-data-detectors-result="1" style="color: currentcolor;">https://i.imgur.com/3WYFVmD.png</a></string>
-						                </true></dict>
+						             
 										<dict>
 										<key>kind</key>
 										<string>full-size-image</string>
